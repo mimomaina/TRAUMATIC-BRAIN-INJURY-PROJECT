@@ -96,7 +96,23 @@ CREATE TABLE tbi_military (
     FOREIGN KEY (year) REFERENCES tbi_year(year)
 );
 
+INSERT INTO tbi_year (year, type, injury_mechanism, number_est, rate_est)
+VALUES 
+(2009, 'Emergency Department Visit', 'Motor vehicle crashes', 270240, 88.7),
+(2006, 'Emergency Department Visit', 'Unintentional falls', 625098, 208.8),
+(2010, 'Emergency Department Visit', 'Intentional self-harm', 1807, 0.6);
 
+INSERT INTO tbi_military (service, component, severity, diagnosed, year)
+VALUES 
+('Army', 'Active', 'Mild',5896, 2006),
+('Navy', 'Active', 'Severe', 28, 2006),
+('Air Force', 'Guard', 'Moderate', 20, 2006);
+
+INSERT INTO tbi_age (age_group, type, injury_mechanism, number_est, rate_est)
+VALUES 
+('0-4', 'Emergency Department Visit', 'Assault', 674, 3.4),
+('0-17', 'Deaths', 'Assault', 611, 0.8),
+('65-74', 'Hospitalizations', 'Motor Vehicle Crashes', 4485, 17);
 
 
 
