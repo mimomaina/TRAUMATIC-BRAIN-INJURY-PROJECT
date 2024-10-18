@@ -25,10 +25,11 @@ Further detailed findings are included in the analysis notebook, along with visu
 
 RECOMMENDATIONS
 
-From the above findings we advice; 
-               -That the military, in general, should take whatever precautionary measures the Air Force has taken to prevent situations or accidents that may lead to brain injuries.
-               -For caution to be taken, especially with children and the elderly, to prevent unintentional falls. 
-               -Pedestrians and motorists to be careful on the roads . The authorities should also be pro active in ensuring the roads are safe and traffic rules are followed to the latter.
+From the above findings we advice: 
+-That the military, in general, should take whatever precautionary measures the Air Force has taken to prevent situations or accidents that may lead to brain injuries.
+-For caution to be taken, especially with children and the elderly, to prevent unintentional falls. 
+-Pedestrians and motorists to be careful on the roads . The authorities should also be pro active in ensuring the roads are safe and traffic rules are followed to the latter.
+-Incase of an accident, kindly seek medical attention.
                
 ACKNOWLEDGEMENT
 
